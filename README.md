@@ -2,6 +2,6 @@
 
 Please add your names here:
 
-* Name 1
+* Liel Fridman
 * Yaron
-* Name 3
+* Nadav 👍
