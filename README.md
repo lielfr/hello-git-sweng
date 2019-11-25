@@ -3,5 +3,5 @@
 Please add your names here:
 
 * Liel Fridman
-* Name 2
+* Yaron
 * Nadav 👍
